@@ -39,7 +39,7 @@
 				<Property Name="Bld_excludedDirectoryCount" Type="Int">6</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/EricAdmin/Documents/LabVIEW Data/Quick Drop Plugins</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{AB5213BC-3C5C-4419-A10D-BD995EA0BCF1}</Property>
-				<Property Name="Bld_version.build" Type="Int">17</Property>
+				<Property Name="Bld_version.build" Type="Int">18</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/EricAdmin/Documents/LabVIEW Data/Quick Drop Plugins</Property>
