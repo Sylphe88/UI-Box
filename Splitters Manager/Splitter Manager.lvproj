@@ -39,7 +39,7 @@
 				<Property Name="Bld_excludedDirectoryCount" Type="Int">6</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/EricAdmin/Documents/LabVIEW Data/Quick Drop Plugins</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{AB5213BC-3C5C-4419-A10D-BD995EA0BCF1}</Property>
-				<Property Name="Bld_version.build" Type="Int">18</Property>
+				<Property Name="Bld_version.build" Type="Int">32</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/EricAdmin/Documents/LabVIEW Data/Quick Drop Plugins</Property>
@@ -52,26 +52,31 @@
 				<Property Name="Destination[2].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[2].type" Type="Str">LLB</Property>
 				<Property Name="DestinationCount" Type="Int">3</Property>
-				<Property Name="Source[0].itemID" Type="Str">{BDC4E347-F830-4D5A-AF14-6966E7F45F18}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{4B0FF21D-D1F8-4D9E-AC4A-D9ADFB4FB2F9}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
-				<Property Name="Source[1].destinationIndex" Type="Int">2</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Splitter Manager UI.vi</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/SplitMan.vi</Property>
+				<Property Name="Source[1].properties[0].type" Type="Str">Window run-time position</Property>
+				<Property Name="Source[1].properties[0].value" Type="Str">Centered</Property>
+				<Property Name="Source[1].properties[1].type" Type="Str">Allow debugging</Property>
+				<Property Name="Source[1].properties[1].value" Type="Bool">true</Property>
+				<Property Name="Source[1].propertiesCount" Type="Int">2</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">2</Property>
-				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Splitter Info.ctl</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Pane Info.ctl</Property>
 				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[2].type" Type="Str">VI</Property>
-				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[3].itemID" Type="Ref">/My Computer/SplitMan.vi</Property>
-				<Property Name="Source[3].properties[0].type" Type="Str">Window run-time position</Property>
-				<Property Name="Source[3].properties[0].value" Type="Str">Centered</Property>
-				<Property Name="Source[3].properties[1].type" Type="Str">Allow debugging</Property>
-				<Property Name="Source[3].properties[1].value" Type="Bool">true</Property>
-				<Property Name="Source[3].propertiesCount" Type="Int">2</Property>
+				<Property Name="Source[3].destinationIndex" Type="Int">2</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/My Computer/Splitter Info.ctl</Property>
 				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[3].type" Type="Str">VI</Property>
-				<Property Name="SourceCount" Type="Int">4</Property>
+				<Property Name="Source[4].destinationIndex" Type="Int">2</Property>
+				<Property Name="Source[4].itemID" Type="Ref">/My Computer/Splitter Manager UI.vi</Property>
+				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[4].type" Type="Str">VI</Property>
+				<Property Name="Source[4].VI.LLBtopLevel" Type="Bool">true</Property>
+				<Property Name="SourceCount" Type="Int">5</Property>
 			</Item>
 		</Item>
 	</Item>
